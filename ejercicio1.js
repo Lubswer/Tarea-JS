@@ -1,0 +1,8 @@
+let n1 = Number(prompt("Ingrese primer número"))
+let n2 = Number(prompt("Ingrese segundo número"))
+console.log("Suma:", n1+n2)
+console.log("Resta:", n1-n2)
+console.log("Multiplicación:", n1*n2)
+console.log("División:", n1/n2)
+console.log("Módulo:", n1%n2)
+console.log("Potencia:", n1**n2)
